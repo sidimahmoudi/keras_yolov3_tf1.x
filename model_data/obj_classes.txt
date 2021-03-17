@@ -1,9 +1,4 @@
-chapeau
-echarpe
-gants
-cle
+key
 lunettes
-parapluie
-telephone
-telecommande
-portefeuille
+phone
+wallet
